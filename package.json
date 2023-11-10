@@ -17,7 +17,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "axios": "0.21.2",
+    "axios": "1.6.0",
     "element-ui": "2.13.0",
     "js-cookie": "2.2.0",
     "normalize.css": "7.0.0",
